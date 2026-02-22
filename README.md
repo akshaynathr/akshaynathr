@@ -22,13 +22,13 @@ Building tools across systems, ML, and full-stack. Ex–AWS, Kindle, Oracle.
 - 🔍 **[Vaccine-Spotter-India](https://github.com/akshaynathr/Vaccine-Spotter-India)** – Python tool to track COVID vaccine availability in India (13 ⭐, MIT).
 - 🔒 **[auditd-rs](https://github.com/akshaynathr/auditd-rs)** – Audit tool in Rust using eBPF.
 - 🏃 **[Lua-Strava](https://github.com/akshaynathr/Lua-Strava)** – Strava REST API (v3) client library in Lua.
-- 🤖 **[Reinforcement-Learning](https://github.com/akshaynathr/Reinforcement-Learning)** – Basic reinforcement learning projects (Jupyter).
+- 🧮 **[Competitive-Programming](https://github.com/akshaynathr/Competitive-Programming)** – Data structures and algorithms (C++).
 - 📰 **[HackJobs](https://github.com/akshaynathr/HackJobs)** – Hacker News–style aggregator for jobs.
 - ⚛️ **[React-Projects](https://github.com/akshaynathr/React-Projects)** – Projects built with React.
 - 🎮 **[TitTacToe](https://github.com/akshaynathr/TitTacToe)** – Tic-tac-toe with minimax in Python.
+- 🤖 **[Reinforcement-Learning](https://github.com/akshaynathr/Reinforcement-Learning)** – Basic reinforcement learning projects (Jupyter).
 - 🌐 **[Neural-Machine-Translation](https://github.com/akshaynathr/Neural-Machine-Translation)** – Seq2seq neural machine translation.
 - 📊 **[ML-with-Tensorflow](https://github.com/akshaynathr/ML-with-Tensorflow)** – ML algorithms implemented in TensorFlow.
-- 🧮 **[Competitive-Programming](https://github.com/akshaynathr/Competitive-Programming)** – Data structures and algorithms (C++).
 - 🖼️ **[opencv-image-compare](https://github.com/akshaynathr/opencv-image-compare)** – Image comparison with OpenCV (Python).
 - 🐍 **[pytorch-projects](https://github.com/akshaynathr/pytorch-projects)** – Projects and experiments with PyTorch.
 
