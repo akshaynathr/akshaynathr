@@ -20,7 +20,6 @@ Building tools across systems, ML, and full-stack. Ex–AWS, Kindle, Oracle.
 ## Old projects
 
 - 🔍 **[Vaccine-Spotter-India](https://github.com/akshaynathr/Vaccine-Spotter-India)** – Python tool to track COVID vaccine availability in India (13 ⭐, MIT).
-- 💉 **[Vaccine-Spotter-India](https://github.com/akshaynathr/Vaccine-Spotter-India)** – Track vaccine availability across India; Python, real-time slots.
 - 🔒 **[auditd-rs](https://github.com/akshaynathr/auditd-rs)** – Audit tool in Rust using eBPF.
 - 🏃 **[Lua-Strava](https://github.com/akshaynathr/Lua-Strava)** – Strava REST API (v3) client library in Lua.
 - 🤖 **[Reinforcement-Learning](https://github.com/akshaynathr/Reinforcement-Learning)** – Basic reinforcement learning projects (Jupyter).
